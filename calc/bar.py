@@ -8,3 +8,6 @@ def xxx(a):
     if a > 0:
         return 1
     return a * b
+
+def yyy(a):
+    return b
